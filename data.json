@@ -1,0 +1,661 @@
+{
+  "count": 200,
+  "next": "https://cryptopanic.com/api/v1/posts/?auth_token=5a57ab6642ec67eebbf5e2fe5bae496503a5386f&page=2",
+  "previous": null,
+  "results": [
+    {
+      "kind": "news",
+      "domain": "coindesk.com",
+      "source": {
+        "title": "CoinDesk",
+        "region": "en",
+        "domain": "coindesk.com",
+        "path": null
+      },
+      "title": "Bitcoin Miner Stronghold Digital Restructures Remaining $55M of Debt",
+      "published_at": "2023-02-07T14:06:05Z",
+      "slug": "Bitcoin-Miner-Stronghold-Digital-Restructures-Remaining-55M-of-Debt",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 17576486,
+      "url": "https://cryptopanic.com/news/17576486/Bitcoin-Miner-Stronghold-Digital-Restructures-Remaining-55M-of-Debt",
+      "created_at": "2023-02-07T14:06:05Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null
+      },
+      "title": "Crypto exchanges tackle insider trading after recent convictions",
+      "published_at": "2023-02-07T14:01:00Z",
+      "slug": "Crypto-exchanges-tackle-insider-trading-after-recent-convictions",
+      "id": 17576491,
+      "url": "https://cryptopanic.com/news/17576491/Crypto-exchanges-tackle-insider-trading-after-recent-convictions",
+      "created_at": "2023-02-07T14:01:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "ambcrypto.com",
+      "votes": {
+        "negative": 1,
+        "positive": 0,
+        "important": 1,
+        "liked": 0,
+        "disliked": 1,
+        "lol": 1,
+        "toxic": 0,
+        "saved": 1,
+        "comments": 0
+      },
+      "source": {
+        "title": "AMBCrypto",
+        "region": "en",
+        "domain": "ambcrypto.com",
+        "path": null
+      },
+      "title": "Coinbase manager accused of insider trading moves to dismiss charges",
+      "published_at": "2023-02-07T14:00:28Z",
+      "slug": "Coinbase-manager-accused-of-insider-trading-moves-to-dismiss-charges",
+      "id": 17576484,
+      "url": "https://cryptopanic.com/news/17576484/Coinbase-manager-accused-of-insider-trading-moves-to-dismiss-charges",
+      "created_at": "2023-02-07T14:00:28Z"
+    },
+    {
+      "kind": "news",
+      "domain": "theblockcrypto.com",
+      "source": {
+        "title": "The Block",
+        "region": "en",
+        "domain": "theblockcrypto.com",
+        "path": null
+      },
+      "title": "Tech giant Dell joins Hedera\u2019s governing council",
+      "published_at": "2023-02-07T14:00:26Z",
+      "slug": "Tech-giant-Dell-joins-Hederas-governing-council",
+      "currencies": [
+        {
+          "code": "HBAR",
+          "title": "Hedera",
+          "slug": "hedera-hashgraph",
+          "url": "https://cryptopanic.com/news/hedera-hashgraph/"
+        }
+      ],
+      "id": 17576502,
+      "url": "https://cryptopanic.com/news/17576502/Tech-giant-Dell-joins-Hederas-governing-council",
+      "created_at": "2023-02-07T14:00:26Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null
+      },
+      "title": "The history and evolution of the fintech industry",
+      "published_at": "2023-02-07T14:00:00Z",
+      "slug": "The-history-and-evolution-of-the-fintech-industry",
+      "id": 17576423,
+      "url": "https://cryptopanic.com/news/17576423/The-history-and-evolution-of-the-fintech-industry",
+      "created_at": "2023-02-07T14:00:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null
+      },
+      "title": "Lido plans to level up ahead of Ethereum Shanghai hard fork upgrade",
+      "published_at": "2023-02-07T14:00:00Z",
+      "slug": "Lido-plans-to-level-up-ahead-of-Ethereum-Shanghai-hard-fork-upgrade",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        }
+      ],
+      "id": 17576422,
+      "url": "https://cryptopanic.com/news/17576422/Lido-plans-to-level-up-ahead-of-Ethereum-Shanghai-hard-fork-upgrade",
+      "created_at": "2023-02-07T14:00:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptonews.com",
+      "source": {
+        "title": "Cryptonews",
+        "region": "en",
+        "domain": "cryptonews.com",
+        "path": null
+      },
+      "title": "Crypto Miners Blamed for Abkhazia Power Outages",
+      "published_at": "2023-02-07T14:00:00Z",
+      "slug": "Crypto-Miners-Blamed-for-Abkhazia-Power-Outages",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 17576496,
+      "url": "https://cryptopanic.com/news/17576496/Crypto-Miners-Blamed-for-Abkhazia-Power-Outages",
+      "created_at": "2023-02-07T14:00:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coindesk.com",
+      "source": {
+        "title": "CoinDesk",
+        "region": "en",
+        "domain": "coindesk.com",
+        "path": null
+      },
+      "title": "Crypto Wallet Security Layer Webacy Raises $4M",
+      "published_at": "2023-02-07T14:00:00Z",
+      "slug": "Crypto-Wallet-Security-Layer-Webacy-Raises-4M",
+      "id": 17576487,
+      "url": "https://cryptopanic.com/news/17576487/Crypto-Wallet-Security-Layer-Webacy-Raises-4M",
+      "created_at": "2023-02-07T14:00:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coindesk.com",
+      "source": {
+        "title": "CoinDesk",
+        "region": "en",
+        "domain": "coindesk.com",
+        "path": null
+      },
+      "title": "Decentralized Identity Network Space ID Raises $10M",
+      "published_at": "2023-02-07T13:58:37Z",
+      "slug": "Decentralized-Identity-Network-Space-ID-Raises-10M",
+      "id": 17576488,
+      "url": "https://cryptopanic.com/news/17576488/Decentralized-Identity-Network-Space-ID-Raises-10M",
+      "created_at": "2023-02-07T13:58:37Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "decrypt.co",
+      "source": {
+        "title": "Decrypt",
+        "region": "en",
+        "domain": "decrypt.co",
+        "path": null
+      },
+      "title": "Ethereum Staking Platform Lido Finance Rolls Out Details of Next Upgrade",
+      "published_at": "2023-02-07T13:56:02Z",
+      "slug": "Ethereum-Staking-Platform-Lido-Finance-Rolls-Out-Details-of-Next-Upgrade",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        }
+      ],
+      "id": 17576428,
+      "url": "https://cryptopanic.com/news/17576428/Ethereum-Staking-Platform-Lido-Finance-Rolls-Out-Details-of-Next-Upgrade",
+      "created_at": "2023-02-07T13:56:02Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "theblockcrypto.com",
+      "votes": {
+        "negative": 0,
+        "positive": 1,
+        "important": 1,
+        "liked": 1,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 1,
+        "comments": 0
+      },
+      "source": {
+        "title": "The Block",
+        "region": "en",
+        "domain": "theblockcrypto.com",
+        "path": null
+      },
+      "title": "Bitcoin miners Hut 8 and US Bitcoin merge to form new US-based entity",
+      "published_at": "2023-02-07T13:44:10Z",
+      "slug": "Bitcoin-miners-Hut-8-and-US-Bitcoin-merge-to-form-new-US-based-entity",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 17576394,
+      "url": "https://cryptopanic.com/news/17576394/Bitcoin-miners-Hut-8-and-US-Bitcoin-merge-to-form-new-US-based-entity",
+      "created_at": "2023-02-07T13:44:10Z"
+    },
+    {
+      "kind": "news",
+      "domain": "u.today",
+      "source": {
+        "title": "U.Today",
+        "region": "en",
+        "domain": "u.today",
+        "path": null
+      },
+      "title": "SingularityNET (AGIX) up 31% After Announcing Partnership With Cardano: Details",
+      "published_at": "2023-02-07T13:38:00Z",
+      "slug": "SingularityNET-AGIX-up-31-After-Announcing-Partnership-With-Cardano-Details",
+      "currencies": [
+        {
+          "code": "AGIX",
+          "title": "SingularityNET",
+          "slug": "singularitynet",
+          "url": "https://cryptopanic.com/news/singularitynet/"
+        }
+      ],
+      "id": 17576346,
+      "url": "https://cryptopanic.com/news/17576346/SingularityNET-AGIX-up-31-After-Announcing-Partnership-With-Cardano-Details",
+      "created_at": "2023-02-07T13:38:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coindesk.com",
+      "source": {
+        "title": "CoinDesk",
+        "region": "en",
+        "domain": "coindesk.com",
+        "path": null
+      },
+      "title": "Digital Pound Holdings Could Be Limited to \u00a310,000, Central Bank Says",
+      "published_at": "2023-02-07T13:37:05Z",
+      "slug": "Digital-Pound-Holdings-Could-Be-Limited-to-10000-Central-Bank-Says",
+      "id": 17576373,
+      "url": "https://cryptopanic.com/news/17576373/Digital-Pound-Holdings-Could-Be-Limited-to-10000-Central-Bank-Says",
+      "created_at": "2023-02-07T13:37:05Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "forkast.news",
+      "source": {
+        "title": "Forkast.News",
+        "region": "en",
+        "domain": "forkast.news",
+        "path": null
+      },
+      "title": "DCG to sell Grayscale holdings at a discount to pay creditors: report",
+      "published_at": "2023-02-07T13:35:01Z",
+      "slug": "DCG-to-sell-Grayscale-holdings-at-a-discount-to-pay-creditors-report",
+      "id": 17576342,
+      "url": "https://cryptopanic.com/news/17576342/DCG-to-sell-Grayscale-holdings-at-a-discount-to-pay-creditors-report",
+      "created_at": "2023-02-07T13:35:01Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null
+      },
+      "title": "Long-standing crypto project vs. scam: Ava Labs CEO shares key difference",
+      "published_at": "2023-02-07T13:33:00Z",
+      "slug": "Long-standing-crypto-project-vs-scam-Ava-Labs-CEO-shares-key-difference",
+      "currencies": [
+        {
+          "code": "AVAX",
+          "title": "Avalanche",
+          "slug": "avalanche-2",
+          "url": "https://cryptopanic.com/news/avalanche-2/"
+        }
+      ],
+      "id": 17576336,
+      "url": "https://cryptopanic.com/news/17576336/Long-standing-crypto-project-vs-scam-Ava-Labs-CEO-shares-key-difference",
+      "created_at": "2023-02-07T13:33:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "newsbtc.com",
+      "source": {
+        "title": "NewsBTC",
+        "region": "en",
+        "domain": "newsbtc.com",
+        "path": null
+      },
+      "title": "This Bitcoin On-Chain Metric Is At A Historical Resistance, Will BTC Decline?",
+      "published_at": "2023-02-07T13:32:58Z",
+      "slug": "This-Bitcoin-On-Chain-Metric-Is-At-A-Historical-Resistance-Will-BTC-Decline",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "SHIB",
+          "title": "Shiba Inu",
+          "slug": "shiba-inu",
+          "url": "https://cryptopanic.com/news/shiba-inu/"
+        },
+        {
+          "code": "DOT",
+          "title": "Polkadot",
+          "slug": "polkadot",
+          "url": "https://cryptopanic.com/news/polkadot/"
+        },
+        {
+          "code": "QNT",
+          "title": "Quant",
+          "slug": "quant-network",
+          "url": "https://cryptopanic.com/news/quant-network/"
+        }
+      ],
+      "id": 17576344,
+      "url": "https://cryptopanic.com/news/17576344/This-Bitcoin-On-Chain-Metric-Is-At-A-Historical-Resistance-Will-BTC-Decline",
+      "created_at": "2023-02-07T13:32:58Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "ambcrypto.com",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 1,
+        "comments": 0
+      },
+      "source": {
+        "title": "AMBCrypto",
+        "region": "en",
+        "domain": "ambcrypto.com",
+        "path": null
+      },
+      "title": "Terra Classic and Binance collaborate to send LUNC to the moon: Details inside",
+      "published_at": "2023-02-07T13:30:27Z",
+      "slug": "Terra-Classic-and-Binance-collaborate-to-send-LUNC-to-the-moon-Details-inside",
+      "currencies": [
+        {
+          "code": "LUNC",
+          "title": "Terra Luna Classic",
+          "slug": "terra-luna",
+          "url": "https://cryptopanic.com/news/terra-luna/"
+        }
+      ],
+      "id": 17576332,
+      "url": "https://cryptopanic.com/news/17576332/Terra-Classic-and-Binance-collaborate-to-send-LUNC-to-the-moon-Details-inside",
+      "created_at": "2023-02-07T13:30:27Z"
+    },
+    {
+      "kind": "news",
+      "domain": "beincrypto.com",
+      "source": {
+        "title": "BeInCrypto",
+        "region": "en",
+        "domain": "beincrypto.com",
+        "path": null
+      },
+      "title": "Is DCG Offloading Grayscale Shares a Sign of Impending Trouble?",
+      "published_at": "2023-02-07T13:30:00Z",
+      "slug": "Is-DCG-Offloading-Grayscale-Shares-a-Sign-of-Impending-Trouble",
+      "id": 17576370,
+      "url": "https://cryptopanic.com/news/17576370/Is-DCG-Offloading-Grayscale-Shares-a-Sign-of-Impending-Trouble",
+      "created_at": "2023-02-07T13:30:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "finbold.com",
+      "votes": {
+        "negative": 0,
+        "positive": 1,
+        "important": 1,
+        "liked": 1,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 1,
+        "comments": 0
+      },
+      "source": {
+        "title": "Finbold",
+        "region": "en",
+        "domain": "finbold.com",
+        "path": null
+      },
+      "title": "Bitcoin trades below massive supply wall; Is a huge sell-off imminent?",
+      "published_at": "2023-02-07T13:24:32Z",
+      "slug": "Bitcoin-trades-below-massive-supply-wall-Is-a-huge-sell-off-imminent",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 17576310,
+      "url": "https://cryptopanic.com/news/17576310/Bitcoin-trades-below-massive-supply-wall-Is-a-huge-sell-off-imminent",
+      "created_at": "2023-02-07T13:24:32Z"
+    },
+    {
+      "kind": "news",
+      "domain": "cryptoslate.com",
+      "source": {
+        "title": "CryptoSlate",
+        "region": "en",
+        "domain": "cryptoslate.com",
+        "path": null
+      },
+      "title": "Class-action lawsuit alleges Signature bank \u2018permitted\u2019 FTX comingling customer funds",
+      "published_at": "2023-02-07T13:22:32Z",
+      "slug": "Class-action-lawsuit-alleges-Signature-bank-permitted-FTX-comingling-customer-funds",
+      "currencies": [
+        {
+          "code": "FTT",
+          "title": "FTX",
+          "slug": "ftx-token",
+          "url": "https://cryptopanic.com/news/ftx-token/"
+        }
+      ],
+      "id": 17576304,
+      "url": "https://cryptopanic.com/news/17576304/Class-action-lawsuit-alleges-Signature-bank-permitted-FTX-comingling-customer-funds",
+      "created_at": "2023-02-07T13:22:32Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    }
+  ]
+}

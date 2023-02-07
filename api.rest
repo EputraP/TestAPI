@@ -1,0 +1,22 @@
+GET http://127.0.0.1:4000
+#####
+GET http://127.0.0.1:4000/CryptoNews
+#####
+POST http://127.0.0.1:4000
+Content-Type: application/json
+
+{
+    "name" : "Stranger Thing uuuuuuu",
+    "no": "1235555111"
+}
+####
+DELETE http://127.0.0.1:4000/Stranger Thing
+###
+PUT http://127.0.0.1:4000
+Content-Type: application/json
+
+
+    {
+    "name" : "Hello World",
+    "no": "1235555111"
+}
